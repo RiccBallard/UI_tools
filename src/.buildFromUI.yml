@@ -1,0 +1,12 @@
+PyCronScheduler:
+  src: "/home/rballard/work/workspace/ProjectDirector/src/"
+  in: "UIs/"
+  out: "GUIs/"
+  exe: true
+
+ProjectDirector:
+  src: "/home/rballard/work/workspace/ProjectDirector/src/"
+  in: "UIs/"
+  out: "GUIs/"
+  exe: true
+  

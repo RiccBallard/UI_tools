@@ -1,0 +1,5 @@
+PyCronScheduler:
+  src: "/home/rballard/work/workspace/PyCronScheduler/src/"
+  in: "UIs/"
+  out: "GUIs/"
+  exe: true
