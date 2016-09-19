@@ -7,7 +7,7 @@ tools.buildFromUI is a description
 
 It defines classes_and_methods
 
-@author:     Ricc
+@author:     Ricc Ballard
 
 @copyright:  2016 RBE All rights reserved.
 
